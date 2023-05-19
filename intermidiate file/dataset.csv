@@ -1,0 +1,453 @@
+,sno,DATE,HEADLINE,TICKER,COMPANY NAME,SECTOR,SUBSECTOR,SERIES,DATE OF LISTING,PAID UP VALUE,MARKET LOT,ISIN NUMBER,FACE VALUE
+0,13,2022-10-31,"GHCL reports Q2 earnings.
+              
+⭕️Net profit at Rs 300.5 cr Vs Rs 93.2 cr (YoY)
+  
+⭕️Revenue up 72% at Rs 1,381 cr Vs Rs 803 cr (YoY)   
+ 
+⭕️EBITDA at Rs 433.8 cr Vs Rs 169 cr (YoY)     
+
+⭕️Margin at 31.4% Vs 21% (YoY)",GHCL,GHCL Limited,Chemicals,Chemicals,EQ,31-Jul-03,10,1,INE539A01019,10
+1,30,2022-10-31,"HFCL gets approval for application under production linked incentive (#PLI) scheme, to avail incentives up to Rs 652.79 cr",HFCL,HFCL Limited,Telecommunications - Equipment,Telecommunications - Equipment,EQ,09-Mar-11,1,1,INE548A01028,1
+2,49,2022-11-01,"UPL gross debt as of September 30 at ₹32,550 cr vs ₹30,123 cr as of June 30",UPL,UPL Limited,Chemicals,Chemicals,EQ,23-Jan-04,2,1,INE628A01036,2
+3,72,2022-11-01,"VSSL reports Q2 earnings.
+
+⭕️Net profit up 15.3% at Rs 28 cr Vs Rs 24.3 cr (YoY)
+
+⭕️Revenue up 32% at Rs 443.2 cr Vs Rs 335.7 cr (YoY)",VSSL,Vardhman Special Steels Limited,,,EQ,17-May-12,10,1,INE050M01012,10
+4,155,2022-11-04,"HIL reports #Q2 results. 
+
+▶️Net loss at ₹6.8 cr vs profit of ₹26.1 cr (YoY)
+
+▶️Revenue down 0.3% at ₹763.9 cr vs ₹765.9 cr (YoY)
+
+▶️EBITDA down 80.8% at ₹12.1 cr vs ₹62.9 cr (YoY)
+
+▶️EBITDA margin at 1.58% vs 8.21% (YoY)",HIL,HIL Limited,Cement - Products & Building Materials,Cement - Products & Building Materials,EQ,26-Apr-95,10,1,INE557A01011,10
+5,181,2022-11-04,"IDFC First Bank gets board approval to raise Rs 4,000 cr",IDFC,IDFC Limited,Finance - Term Lending Institutions,Finance - Term Lending Institutions,EQ,12-Aug-05,10,1,INE043D01016,10
+6,224,2022-11-07,"KEC Intl Q2 | #2QWithCNBCTV18 
+
+Net profit down 31.2% at Rs 55.2 cr Vs Rs 80.3 cr (YoY)
+
+Revenue up 13.3% at Rs 4064 cr Vs Rs 3587.5 cr (YoY)
+
+EBITDA down 29.7% at Rs 178 cr Vs Rs 253.1 cr (YoY)
+
+EBITDA margin at 4.4% Vs 7.1% (YoY",KEC,KEC International Limited,Power - Transmission & Equipment,Power - Transmission & Equipment,EQ,10-Mar-06,2,1,INE389H01022,2
+7,225,2022-11-07,"KEC Intl says: YTD #Order intake of Rs10,465 cr – growth of 25%
+
+Highest ever #OrderBook + L1 of over Rs 34,000 cr",KEC,KEC International Limited,Power - Transmission & Equipment,Power - Transmission & Equipment,EQ,10-Mar-06,2,1,INE389H01022,2
+8,227,2022-11-07,"OCTOBER GENERAL INSURANCE DATA 
+ 
+NEW INDIA ASSURANCE 
+Oct Premium Up 3% (YoY)
+FY23 Year-to-Month Premium Up 3% (YoY)
+ 
+STAR HEALTH
+Oct Premium Up 11.5% (YoY)
+FY23 Year-to-Month Premium Up 11.5% (YoY)",STAR,Strides Pharma Science Limited,Pharmaceuticals,Pharmaceuticals,EQ,02-Feb-00,10,1,INE939A01011,10
+9,233,2022-11-07,"BPCL Q2 | #2QWithCNBCTV18 
+
+⛽️ Net loss at ₹304.2 cr Vs loss of ₹6,263 cr (QoQ)
+
+⛽️ Revenue down 5% at ₹1.15 lk cr Vs ₹1.21 lk cr (QoQ)
+
+⛽️ EBITDA at ₹1,433 cr Vs EBITDA loss of ₹5,865 cr (QoQ)
+
+⛽️ Margin at 1.2%",BPCL,Bharat Petroleum Corporation Limited,Refineries,Refineries,EQ,13-Sep-95,10,1,INE029A01011,10
+10,234,2022-11-07,BPCL says its gross refining margins (#GRM) for the period H1 FY23 was $22.30/bbl Vs $5.23/bbl in the corresponding comparative period,BPCL,Bharat Petroleum Corporation Limited,Refineries,Refineries,EQ,13-Sep-95,10,1,INE029A01011,10
+11,247,2022-11-08,"MRF Q2 | #2QWithCNBCTV18 
+
+Net profit down 24.1% at Rs 145.4 cr Vs `191.6 cr (YoY)
+
+Revenue up 18.7% at Rs 5826.3 cr Vs Rs 4907.8 cr (YoY)
+
+Board also approves enhancement in the issue of Non-Convertible Debentures through Private Placement from Rs.100 cr to Rs.150 cr",MRF,MRF Limited,Tyres,Tyres,EQ,18-Sep-96,10,1,INE883A01011,10
+12,254,2022-11-08,"Weak #October For Pvt Life Insurance; LIC(+18%), SBI Life (+16%) Defy Weakness 
+
+HDFC Life, I-Pru Life Grow In Low Single-Digit, Max Life Sees Contraction
+
+Only #LIC & #SBI Life See Growth In APE
+
+#HDFC Life (🔻17%), I-Pru Life (🔻26%) & Max Life See Drop In APE",HDFC,Housing Development Finance Corporation Limited,Finance,Finance,EQ,23-Oct-96,2,1,INE001A01036,2
+13,309,2022-11-10,BEL signs #MoU with Goa Shipyard for autonomous #navigation,BEL,Bharat Electronics Limited,Computers - Hardware,Computers - Hardware,EQ,19-Jul-00,1,1,INE263A01024,1
+14,311,2022-11-10,"BLS International Services reports #Q2 earnings. 
+
+▶️Net profit up 83.3% at ₹50.4 cr vs ₹27.4 cr (YoY)
+    
+▶️Revenue up 87.4% at ₹356.8 cr vs ₹190.4 cr (YoY) 
+   
+▶️EBITDA at ₹56.7 cr vs ₹27.5 cr (YoY)
+     
+▶️Margin at 15.9% vs 14.4% (YoY)",BLS,BLS International Services Limited,Miscellaneous,Miscellaneous,EQ,14-Jun-16,1,1,INE153T01027,1
+15,314,2022-11-10,PTC Industries & Bharat Dynamics sign #MoU for mutual co-operation & business development,PTC,PTC India Limited,Power,Power,EQ,07-Apr-04,10,1,INE877F01012,10
+16,319,2022-11-10,"LT Foods | Board approves the preferential issuance of 2.7 crore shares at 142.23/share worth up to ₹390 crore to SALIC International Investment
+
+▶️ Alert: CNBC-TV18 Newsbreak confirmed LT Foods approves shares issuance to an investor",LT,Larsen & Toubro Limited,Infrastructure - General,Infrastructure - General,EQ,23-Jun-04,2,1,INE018A01030,2
+17,326,2022-11-10,"ITC in focus
+
+Govt has no plan to sell SUTTI stake in ITC as of now",ITC,ITC Limited,,,EQ,23-Aug-95,1,1,INE154A01025,1
+18,328,2022-11-10,"No plan to #sell #SUUTI stake in #ITC as of now, #govt sources tell 
+
+⭕️Alert: Govt holds 7.87% in ITC 
+
+⭕️Alert: SUUTI last sold 2% stake in ITC in Feb 2017",ITC,ITC Limited,,,EQ,23-Aug-95,1,1,INE154A01025,1
+19,333,2022-11-10,"BASF reports Q2 earnings.
+
+⭕️Net profit down 17.6% at Rs 113.1 cr Vs Rs 137.3 cr (YoY)
+
+⭕️Revenue up 5.2% at Rs 3,582 cr Vs Rs 3,406 cr (YoY)
+
+⭕️EBITDA down 18.1% at Rs 187.7 cr Vs Rs 229.2 cr (YoY)
+
+⭕️Margin at 5.2% Vs 6.7% (YoY)",BASF,BASF India Limited,Chemicals,Chemicals,EQ,17-May-95,10,1,INE373A01013,10
+20,359,2022-11-10,"CONCOR reports #Q2 earnings. 
+
+▶️Net profit up 14.7% at ₹302.8 cr vs ₹264 cr (YoY)
+
+▶️Revenue up 8% at ₹1,970.7 cr vs 1,823.9 cr (YoY)
+
+▶️EBITDA up 16.9% at ₹498.7 cr vs ₹426.5 cr (YoY)
+
+▶️EBITDA margin 25.3% vs 23.4% (YoY)",CONCOR,Container Corporation of India Limited,Transport & Logistics,Transport & Logistics,EQ,07-May-97,5,1,INE111A01025,5
+21,371,2022-11-11,"FACT reports Q2 earnings.
+
+⭕️Net profit at Rs 144.6 cr Vs Rs 36.4 cr (YoY)
+
+⭕️Revenue at Rs 1,935 cr Vs Rs 781.6 cr (YoY)
+
+⭕️EBITDA at Rs 236.5 cr Vs Rs 104.5 cr (YoY)
+
+⭕️Margin at 12.2% Vs 13.4% (YoY)",FACT,Fertilizers and Chemicals Travancore Limited,Fertilisers,Fertilisers,EQ,12-Apr-95,10,1,INE188A01015,10
+22,383,2022-11-11,"KRBL reports Q2 earnings.
+ 
+⭕️Net profit up 56.5% at Rs 213.1 cr Vs Rs 136.2 cr (YoY)
+
+⭕️Revenue up 25.2% at Rs 1,319.2 cr Vs Rs 1,053.7 cr (YoY)
+
+⭕️EBITDA up 43.6% at Rs 284.7 cr Vs Rs 198.2 cr (YoY)
+
+⭕️Margin at 21.6% Vs 18.8% (YoY)",KRBL,KRBL Limited,Food Processing,Food Processing,EQ,21-Jan-02,1,1,INE001B01026,1
+23,411,2022-11-11,"NDTV announces open offer for stake sale to VCPL, #Adani Media Networks and Adani Enterprises",NDTV,New Delhi Television Limited,Entertainment,Entertainment,BE,19-May-04,4,1,INE155G01029,4
+24,424,2022-11-12,Adani Group to launch open offer for NDTV on 22 November,NDTV,New Delhi Television Limited,Entertainment,Entertainment,BE,19-May-04,4,1,INE155G01029,4
+25,430,2022-11-12,"RCF Q2
+
+▶️Net Profit at Rs 261.9 Cr vs Rs 117.9 Cr (YoY)
+▶️Revenue at Rs 5,575.9.6 Cr vs Rs 2,612.4 Cr (YoY)
+▶️EBITDA at Rs 404.9 Cr vs Rs 186.8 Cr (YoY)
+▶️Margin at 7.26% vs 7.15% (YoY)",RCF,Rashtriya Chemicals and Fertilizers Limited,Fertilisers,Fertilisers,EQ,07-Jan-98,10,1,INE027A01015,10
+26,433,2022-11-12,Domestic airline industry expected to incur a net loss of Rs 150-170 billion: ICRA,ICRA,ICRA Limited,Miscellaneous,Miscellaneous,EQ,13-Apr-07,10,1,INE725G01011,10
+27,446,2022-11-14,"CONCOR says DIPAM organising divestment roadshow with potential investors today & tomorrow. Roadshow will have representatives from DIPAM, Rail Min & Co",CONCOR,Container Corporation of India Limited,Transport & Logistics,Transport & Logistics,EQ,07-May-97,5,1,INE111A01025,5
+28,452,2022-11-14,"ITDC reports #Q2 earnings. 
+
+▶️Net profit at ₹10 cr vs ₹1.5 cr (YoY)
+   
+▶️Revenue up 32.5%  at ₹92.2 cr vs ₹69.6 cr (YoY) 
+ 
+▶️EBITDA at ₹11.4 cr vs ₹0.6 cr (YoY) 
+  
+▶️Margin at 12.3% vs 0.9% (YoY)",ITDC,India Tourism Development Corporation Limited,,,EQ,30-Dec-16,10,1,INE353K01014,10
+29,469,2022-11-14,"Bharat Forge, Sun TV, BHEL, Astral, Zee Ent see negative reaction to earnings
+
+ABB, IndiaMART, M&M Fin, City Union Bank, Max Fin top Midcap losers",M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+30,471,2022-11-14,SEBI approves Adani Group's open offer for 26% shares of NDTV,NDTV,New Delhi Television Limited,Entertainment,Entertainment,BE,19-May-04,4,1,INE155G01029,4
+31,472,2022-11-14,"NBCC India reports Q2 earnings.
+
+⭕️Net profit up 34.1% at Rs 95.5 cr Vs Rs 71.2 cr (YoY)
+
+⭕️Revenue up 8% at Rs 2,029.7 cr Vs Rs 1,879.7 cr (YoY)
+
+⭕️EBITDA up 74.1% at Rs 88.4 cr Vs Rs 50.8 cr (YoY)
+
+⭕️Margin at 4.4% Vs 2.7% (YoY)",NBCC,NBCC (India) Limited,Construction,Construction,EQ,12-Apr-12,1,1,INE095N01031,1
+32,478,2022-11-14,"CESC reports Q2 earnings.
+
+⭕️Net profit down 9% at Rs 305 cr Vs Rs 335 cr (YoY)
+
+⭕️Revenue up 12% at Rs 3,913 cr Vs Rs 3,494 cr (YoY)
+
+⭕️EBIDTA down 46.4% at Rs 490 cr Vs Rs 914 cr (YoY)                                      
+
+⭕️Margin at 12.5% Vs 26.2% (YoY)",CESC,CESC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,08-Feb-95,1,1,INE486A01021,1
+33,482,2022-11-14,"NBCC India reports Q2 earnings.
+
+⭕️Net profit up 34.1% at Rs 95.5 cr Vs Rs 71.2 cr (YoY)
+
+⭕️Revenue up 8% at Rs 2,029.7 cr Vs Rs 1,879.7 cr (YoY)
+
+⭕️EBITDA up 74.1% at Rs 88.4 cr Vs Rs 50.8 cr (YoY)
+
+⭕️Margin at 4.4% Vs 2.7% (YoY)",NBCC,NBCC (India) Limited,Construction,Construction,EQ,12-Apr-12,1,1,INE095N01031,1
+34,483,2022-11-14,NBCC India secures total biz of Rs 332 cr in October Vs Rs 162 cr in September,NBCC,NBCC (India) Limited,Construction,Construction,EQ,12-Apr-12,1,1,INE095N01031,1
+35,485,2022-11-14,"BPL reports Q2 earnings.
+
+➡️Net profit down 41.4% at Rs 1.7 cr Vs Rs 2.9 cr (YoY)
+
+➡️Revenue down 50.6% at Rs 11.9 cr Vs Rs 24 cr (YoY)",BPL,BPL Limited,Consumer Goods - Electronic,Consumer Goods - Electronic,EQ,14-Jun-95,10,1,INE110A01019,10
+36,496,2022-11-15,"Our export revenue benefited from the restoration of a new distributor in Saudi. Standing at Rs 2,800 crores worth of inventory currently, Ashish Jain of KRBL to CNBC-TV18",KRBL,KRBL Limited,Food Processing,Food Processing,EQ,21-Jan-02,1,1,INE001B01026,1
+37,505,2022-11-15,"ONGC Q2 PAT down 30% at ₹ 12,826 cr; firm declares interim dividend of ₹ 6.75/shr",ONGC,Oil & Natural Gas Corporation Limited,Oil Drilling,Oil Drilling,EQ,19-Jul-95,5,1,INE213A01029,5
+38,509,2022-11-15,"BEL signs an MoU with Defence PSU Hindustan Shipyard Limited (HSL)
+
+Cos to jointly develop, upgrade products/systems for domestic & Export markets",BEL,Bharat Electronics Limited,Computers - Hardware,Computers - Hardware,EQ,19-Jul-00,1,1,INE263A01024,1
+39,517,2022-11-16,"KEC International bags new orders worth ₹1,294 cr across various businesses",KEC,KEC International Limited,Power - Transmission & Equipment,Power - Transmission & Equipment,EQ,10-Mar-06,2,1,INE389H01022,2
+40,521,2022-11-16,UPL says promoter has acquired additional 0.19% stake from Nov 11-14,UPL,UPL Limited,Chemicals,Chemicals,EQ,23-Jan-04,2,1,INE628A01036,2
+41,535,2022-11-16,"PTC Fin says board has approved FY23 earnings, co is awaiting independent auditor report & is expected shortly",PTC,PTC India Limited,Power,Power,EQ,07-Apr-04,10,1,INE877F01012,10
+42,549,2022-11-17,HDFC Bank ADR down 4.61% in after-hours trade,HDFC,Housing Development Finance Corporation Limited,Finance,Finance,EQ,23-Oct-96,2,1,INE001A01036,2
+43,557,2022-11-17,"NMDC (@nmdclimited) cuts Lump Ore & Fines prices by ₹300/tonne each. Lump ore price is now at ₹3,800 & fines at ₹2,610/tonne",NMDC,NMDC Limited,Mining & Minerals,Mining & Minerals,EQ,03-Mar-08,1,1,INE584A01023,1
+44,565,2022-11-17,BEL signs MoU with AWEI to address needs of domestic and export markets,BEL,Bharat Electronics Limited,Computers - Hardware,Computers - Hardware,EQ,19-Jul-00,1,1,INE263A01024,1
+45,575,2022-11-18,SPARC gets US FDA nod for SEZABY for the treatment of Neonatal Seizures,SPARC,Sun Pharma Advanced Research Company Limited,Misc,Misc,EQ,18-Jul-07,1,1,INE232I01014,1
+46,579,2022-11-18,BEL signs MoU with IITM Pravartak Technologies Foundation for Distributed Acoustic Sensing,BEL,Bharat Electronics Limited,Computers - Hardware,Computers - Hardware,EQ,19-Jul-00,1,1,INE263A01024,1
+47,589,2022-11-18,"HDFC Bank (@HDFC_Bank) signs #MoU with Government of Karnataka
+
+▶️To provide #banking and #financial services to #startups registered with Karnataka Startup Cell",HDFC,Housing Development Finance Corporation Limited,Finance,Finance,EQ,23-Oct-96,2,1,INE001A01036,2
+48,613,2022-11-21,"PVR Large Trade | 0.70 lakh shares (0.1% equity) worth ₹12.28 cr change hands at an average of ₹1,744/sh
+
+#LargeTrade #BlockDeal",PVR,PVR Limited,Media & Entertainment,Media & Entertainment,EQ,04-Jan-06,10,1,INE191H01014,10
+49,616,2022-11-21,"Allied Digital bags contract of ₹207.2 cr in JV with KEC from Punjab Municipal Corp, smart city project in Punjab for 3 cities",KEC,KEC International Limited,Power - Transmission & Equipment,Power - Transmission & Equipment,EQ,10-Mar-06,2,1,INE389H01022,2
+50,624,2022-11-21,Adani Group's ₹493-crore open offer for NDTV to start tomorrow,NDTV,New Delhi Television Limited,Entertainment,Entertainment,BE,19-May-04,4,1,INE155G01029,4
+51,648,2022-11-22,DCW to double its CPVC capacity by adding another 10KT capacity,DCW,DCW Limited,Petrochemicals,Petrochemicals,EQ,25-May-95,2,1,INE500A01029,2
+52,657,2022-11-23,"ACC promoter #Ambuja Cements releases entire pledge of its 50% equity on November 19, total holding now pledged at 2.16% vs 52.21% earlier",ACC,ACC Limited,Cement - Major,Cement - Major,EQ,20-Nov-96,10,1,INE012A01025,10
+53,660,2022-11-23,TCS extends partnership with Standard Chartered Singapore Marathon,TCS,Tata Consultancy Services Limited,Computers,Computers,EQ,25-Aug-04,1,1,INE467B01029,1
+54,671,2022-11-23,"Quiklyz, vehicle leasing & subscription biz signs MoUs to lease over 1,000 electric 3-wheelers, M&M Fin says",M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+55,694,2022-11-24,"ICICI Bank to acquire 10% in a JV of IOC & Chennai Petro for ₹50,000. ICICI Prudential to acquire 9% in a JV of IOC & Chennai Petro for ₹45,000
+
+CNBC-TV18 Alert: IOC & Chennai Petro form JV for 9 mmtpa refinery at Nagapattinam, TN",IOC,Indian Oil Corporation Limited,Refineries,Refineries,EQ,24-Jul-96,10,1,INE242A01010,10
+56,700,2022-11-24,"PVR opens 12 screen superlex in Thiruvananthapuram, Kerala",PVR,PVR Limited,Media & Entertainment,Media & Entertainment,EQ,04-Jan-06,10,1,INE191H01014,10
+57,702,2022-11-24,PNB (@pnbindia) gets #government approval to #divest UTI AMC stake,PNB,Punjab National Bank,Banks - PSU,Banks - PSU,EQ,24-Apr-02,2,1,INE160A01022,2
+58,709,2022-11-25,"Engineers India bags order from Mangalore Refinery & Petrochemicals for preparation of BDEP, DFR & pre-project activities for bio-ATF plant at MRPL",MRPL,Mangalore Refinery and Petrochemicals Limited,Refineries,Refineries,EQ,07-Jan-05,10,1,INE103A01014,10
+59,714,2022-11-25,"Yet to hear from @RBI on arms’ treatment post HDFC -HDFC Bank merger. Sought RBI leeway on reserve requirement post-merger
+
+#HDFC Bank to have enough liquidity even sans leeway
+
+Deepak Parekh @HomeLoansByHDFC EGM",HDFC,Housing Development Finance Corporation Limited,Finance,Finance,EQ,23-Oct-96,2,1,INE001A01036,2
+60,716,2022-11-25,"#ITDC at upper circuit on the Ashok Hotel value
+
+Alert: Indian Hotels holds nearly 8% stake in ITDC",ITDC,India Tourism Development Corporation Limited,,,EQ,30-Dec-16,10,1,INE353K01014,10
+61,725,2022-11-25,IRDAI approves merger of Exide Life With HDFC Life,HDFC,Housing Development Finance Corporation Limited,Finance,Finance,EQ,23-Oct-96,2,1,INE001A01036,2
+62,741,2022-11-28,ITC enters into a management contract for hotel owned by Jolle Hospitality,ITC,ITC Limited,,,EQ,23-Aug-95,1,1,INE154A01025,1
+63,762,2022-11-28,#SEBI approves Sundararaman Ramamurthy as MD & CEO of BSE,BSE,BSE Limited,,,EQ,03-Feb-17,2,1,INE118H01025,2
+64,763,2022-11-28,Adani closes in on NDTV takeover as founder entity transfers shares,NDTV,New Delhi Television Limited,Entertainment,Entertainment,BE,19-May-04,4,1,INE155G01029,4
+65,767,2022-11-29,TCS & ICICI Bank launch iLens a digital lending solution,TCS,Tata Consultancy Services Limited,Computers,Computers,EQ,25-Aug-04,1,1,INE467B01029,1
+66,785,2022-11-29,"Received bids from #Adani Group & #DLF. Adani Group’s bid was for Rs 5,069 crore, DLF was Rs 2,025 crore. Will now go forward with formal process of approval from competent authorities",DLF,DLF Limited,Construction & Contracting - Real Estate,Construction & Contracting - Real Estate,EQ,05-Jul-07,2,1,INE271C01023,2
+67,787,2022-11-29,IDFC says it got SEBI nod for change in control of IDFC Mutual Fund,IDFC,IDFC Limited,Finance - Term Lending Institutions,Finance - Term Lending Institutions,EQ,12-Aug-05,10,1,INE043D01016,10
+68,788,2022-11-29,SEBI gives its approval for a consortium led by Bandhan Financial Holdings to take over IDFC Ltd's mutual fund operations,IDFC,IDFC Limited,Finance - Term Lending Institutions,Finance - Term Lending Institutions,EQ,12-Aug-05,10,1,INE043D01016,10
+69,795,2022-11-30,NDTV founders Prannoy Roy and Radhika Roy resign from RRPRH board,NDTV,New Delhi Television Limited,Entertainment,Entertainment,BE,19-May-04,4,1,INE155G01029,4
+70,796,2022-11-30,PNB Housing board approves for filing draft of #RightsIssue with #SEBI,PNB,Punjab National Bank,Banks - PSU,Banks - PSU,EQ,24-Apr-02,2,1,INE160A01022,2
+71,797,2022-11-30,"TCS (@TCS ) gets into a six-year contract with Rail Delivery Group to design, develop, implement & operate UK’s RDM",TCS,Tata Consultancy Services Limited,Computers,Computers,EQ,25-Aug-04,1,1,INE467B01029,1
+72,800,2022-11-30,TCS gets Rail Delivery Group’s project to help create the UK Government’s #Rail data marketplace,TCS,Tata Consultancy Services Limited,Computers,Computers,EQ,25-Aug-04,1,1,INE467B01029,1
+73,805,2022-11-30,"MOIL cuts prices of fines, chemicals by 5% from tomorrow",MOIL,MOIL Limited,Mining & Minerals,Mining & Minerals,EQ,15-Dec-10,10,1,INE490G01020,10
+74,815,2022-12-01,Coforge & Tokio Marine HCC expand partnership to drive IT transformation,HCC,Hindustan Construction Company Limited,Construction,Construction,EQ,01-Apr-03,1,1,INE549A01026,1
+75,826,2022-12-01,"SJVN Green Energy signs MoU with Grid Corporation of Odisha for developing 1000 MW Hydro Electric Projects & 2000 MW Solar Power Project
+
+These projects will attract an investment of Rs 20,000 cr",SJVN,SJVN Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,20-May-10,10,1,INE002L01015,10
+76,831,2022-12-02,"PVR opens 3-screen #multiplex in Yamuna Nagar, Haryana 
+
+▶️ Also opens Director’s Luxury Cut #Cinema Auditoriums in Bengaluru",PVR,PVR Limited,Media & Entertainment,Media & Entertainment,EQ,04-Jan-06,10,1,INE191H01014,10
+77,832,2022-12-02,MOIL surges nearly 4% in trade after company's November manganese ore production rise by 60% & sales by 82% on a MoM basis,MOIL,MOIL Limited,Mining & Minerals,Mining & Minerals,EQ,15-Dec-10,10,1,INE490G01020,10
+78,835,2022-12-02,"HDFC Bank board approves issuance of #NCDs up to Rs 15,000 crore on a private placement basis",HDFC,Housing Development Finance Corporation Limited,Finance,Finance,EQ,23-Oct-96,2,1,INE001A01036,2
+79,843,2022-12-03,"PNB Housing Fin: Paid Rs 3 Lakh fine to BSE and NSE for  not having the requisite number of Independent Directors on the Board as on September 30, 2022",BSE,BSE Limited,,,EQ,03-Feb-17,2,1,INE118H01025,2
+80,855,2022-12-05,"M&M Financial at a 52-week high following November business update, stock up nearly 5%",M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+81,860,2022-12-05,HPL Electric & Power bags #orders for supply of #5G electric products to top #telecom companies,HPL,HPL Electric & Power Limited,,,EQ,04-Oct-16,10,1,INE495S01016,10
+82,874,2022-12-05,"IRB Infra Developers: #November gross #toll collection up 6.1% at Rs 365.9 cr Vs Rs 345 cr (MoM)
+ 
+➡️November gross toll #collection up 39.2% at Rs 365.9 cr Vs Rs 262.8 cr (YoY)",IRB,IRB Infrastructure Developers Limited,Construction & Contracting - Real Estate,Construction & Contracting - Real Estate,EQ,25-Feb-08,10,1,INE821I01014,10
+83,893,2022-12-06,Centre to allow foreign funds to own over 51% in IDBI Bank,IDBI,IDBI Bank Limited,Banks - PSU,Banks - PSU,EQ,20-Sep-95,10,1,INE008A01015,10
+84,897,2022-12-06,abrdn Investment Management to sell entire 10.21% stake in HDFC AMC,HDFC,Housing Development Finance Corporation Limited,Finance,Finance,EQ,23-Oct-96,2,1,INE001A01036,2
+85,908,2022-12-07,"CONCOR disinvestment is an independent activity & #government has recently conducted meetings with potential investors, Railway Ministry to #Parliament",CONCOR,Container Corporation of India Limited,Transport & Logistics,Transport & Logistics,EQ,07-May-97,5,1,INE111A01025,5
+86,909,2022-12-07,CRISIL assigns ‘CRISIL AAA/Stable’ rating to infrastructure #bonds of @AxisBank,CRISIL,CRISIL Limited,Miscellaneous,Miscellaneous,EQ,28-Jun-95,1,1,INE007A01025,1
+87,910,2022-12-07,"Arun Kumar Singh appointed Chairman of @ONGC_ for 3 years
+
+Alert: Arun Kumar Singh was the Ex-CMD of BPCL",BPCL,Bharat Petroleum Corporation Limited,Refineries,Refineries,EQ,13-Sep-95,10,1,INE029A01011,10
+88,956,2022-12-10,YESBANK gets @RBI nod for #Carlyle Group & Verventa Holdings investment by in the bank. The bank shall now engage with the investors for the completion of the proposed capital raise,YESBANK,Yes Bank Limited,Banks - Private,Banks - Private,EQ,12-Jul-05,2,1,INE528G01035,2
+89,969,2022-12-12,"LTI Mindtree under pressure
+🔴Company expects demand moderation & one-off costs to weigh on H2 performance
+🔴Co expects a weaker margin trajectory in H2
+
+#Source: Emkay Report On LTI Mindtree",LTI,Larsen & Toubro Infotech Limited,,,EQ,21-Jul-16,1,1,INE214T01019,1
+90,974,2022-12-12,"M&M November production up 69% YoY & up 9% MoM at 61,140 units",M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+91,986,2022-12-12,"Oil marketing cos gain on crude slide, BPCL, HPCL up 3-5%
+
+Aviation stocks rise on increased demand & Crude fall, IndiGo up 3%
+
+PNB rises another 3% today on positive brokerage note",PNB,Punjab National Bank,Banks - PSU,Banks - PSU,EQ,24-Apr-02,2,1,INE160A01022,2
+92,989,2022-12-12,"#JustIn | KEC International bags orders worth Rs 1,349 cr across is various businesses",KEC,KEC International Limited,Power - Transmission & Equipment,Power - Transmission & Equipment,EQ,10-Mar-06,2,1,INE389H01022,2
+93,997,2022-12-13,TCS ties up with Gujarat Government to impart digital skills in schools,TCS,Tata Consultancy Services Limited,Computers,Computers,EQ,25-Aug-04,1,1,INE467B01029,1
+94,1006,2022-12-13,"Diagnostic stocks slip on Delhi govt’s plan of increased free tests at govt clinics
+
+Oil mktg cos fall as crude rises, HPCL down 2%, BPCL falls 1%
+
+Laurus, Escorts Kubota, Can Fin, Godrej Cons, AU SFB, Biocon are top Midcap losers",BPCL,Bharat Petroleum Corporation Limited,Refineries,Refineries,EQ,13-Sep-95,10,1,INE029A01011,10
+95,1018,2022-12-14,"M&M (@MahindraRise) says investment of ₹10,000 cr for EVs approved under Maharashtra Govt’s Industrial Promotion Scheme. Co will invest over 7-8 years for setting up EV mfg unit, development, and production of Mahindra’s upcoming Born Electric Vehicles (BEVs",M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+96,1027,2022-12-14,"NBCC secures total #business of ₹300.41 crore in November, 2022",NBCC,NBCC (India) Limited,Construction,Construction,EQ,12-Apr-12,1,1,INE095N01031,1
+97,1032,2022-12-14,"Colgate is top Midcap loser as brokerage maintain neutral stance post analyst call
+
+Page Ind, strides, Abbott, HPCL, PNB are top Midcap losers",PNB,Punjab National Bank,Banks - PSU,Banks - PSU,EQ,24-Apr-02,2,1,INE160A01022,2
+98,1047,2022-12-15,"Fertiliser stocks see a sharp surge, Madras Fert up more than 17%, FACT & Mangalore Chem rise over 8% each",FACT,Fertilizers and Chemicals Travancore Limited,Fertilisers,Fertilisers,EQ,12-Apr-95,10,1,INE188A01015,10
+99,1095,2022-12-17,PSUs hire ICICI Securities to sell stakes in PTC India,PTC,PTC India Limited,Power,Power,EQ,07-Apr-04,10,1,INE877F01012,10
+100,1107,2022-12-19,"KEC International bags new orders worth ₹1,313 cr",KEC,KEC International Limited,Power - Transmission & Equipment,Power - Transmission & Equipment,EQ,10-Mar-06,2,1,INE389H01022,2
+101,1109,2022-12-19,"Market closes higher after slipping in last two sessions
+
+Market regains Friday’s losses with Sensex & Nifty rising 1% each
+
+Reliance, HDFC, ITC lift Nifty while IT majors (TCS & Infosys) drag",ITC,ITC Limited,,,EQ,23-Aug-95,1,1,INE154A01025,1
+102,1112,2022-12-19,NBCC India bags construction order worth Rs 69.3 cr from Odisha Power Transmission Corporation (#OPTCL),NBCC,NBCC (India) Limited,Construction,Construction,EQ,12-Apr-12,1,1,INE095N01031,1
+103,1115,2022-12-19,IRB Infra board meeting on Jan 4 to consider stock split,IRB,IRB Infrastructure Developers Limited,Construction & Contracting - Real Estate,Construction & Contracting - Real Estate,EQ,25-Feb-08,10,1,INE821I01014,10
+104,1119,2022-12-20,Capacite Infra bags order worth ₹117.2 cr from DLF for mall construction in Goa,DLF,DLF Limited,Construction & Contracting - Real Estate,Construction & Contracting - Real Estate,EQ,05-Jul-07,2,1,INE271C01023,2
+105,1126,2022-12-20,Adani Group's VCPL acquires 8.27% stake in NDTV through open offer,NDTV,New Delhi Television Limited,Entertainment,Entertainment,BE,19-May-04,4,1,INE155G01029,4
+106,1146,2022-12-21,GAIL & Mitsui OSK Lines sign contract to build a new LNG carrier and sign agreement for joint ownership of an existing LNG carrier,GAIL,GAIL (India) Limited,Oil Drilling And Exploration,Oil Drilling And Exploration,EQ,02-Apr-97,10,1,INE129A01019,10
+107,1185,2022-12-23,"#JustiN | BHEL in licensing agreement with Sumitomo Shi FW, Finland for design, engineering, manufacturing, erection, commissioning and sale of Circulating Fluidised Bed Combustion (CFBC)Boilers in India and in overseas territories except select countries",BHEL,Bharat Heavy Electricals Limited,Engineering - Heavy,Engineering - Heavy,EQ,11-Nov-03,2,1,INE257A01026,2
+108,1189,2022-12-23,"BSE cos erase almost entire mkt cap gained this quarter (Oct-Dec), in last three days. BSE cos’ mkt cap down nearly 6% from all-time high hit last week",BSE,BSE Limited,,,EQ,03-Feb-17,2,1,INE118H01025,2
+109,1200,2022-12-26,NTPC (@ntpclimited) signs MoU with #Tecnimont to explore Green #Methanol production,NTPC,NTPC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,05-Nov-04,10,1,INE733E01010,10
+110,1212,2022-12-27,NBCC bags order worth ₹69.3 crore from Odisha Power Transmission Corp,NBCC,NBCC (India) Limited,Construction,Construction,EQ,12-Apr-12,1,1,INE095N01031,1
+111,1218,2022-12-28,"DLF issues clarification, says have not received any notice from Noida Authority till now
+Alert: There were reports of Noida Authority issuing notice to DLF demanding ₹235 cr",DLF,DLF Limited,Construction & Contracting - Real Estate,Construction & Contracting - Real Estate,EQ,05-Jul-07,2,1,INE271C01023,2
+112,1249,2022-12-29,"Tata Motors, HCL, Bajaj Finserv, Infosys, Adani Ports are top Nifty losers
+
+Indiabulls HSG, RBL, AB Cap, Apollo Tyres, JSWPL are top Midcap gainers
+
+Laurus, Amara Raja, IRCTC, Havells, LTI Mindtree are top Midcap losers",LTI,Larsen & Toubro Infotech Limited,,,EQ,21-Jul-16,1,1,INE214T01019,1
+113,1256,2022-12-30,Inox Green says CRISIL upgrades long-term rating to BBB+ from BBB,CRISIL,CRISIL Limited,Miscellaneous,Miscellaneous,EQ,28-Jun-95,1,1,INE007A01025,1
+114,1263,2022-12-30,IDBI Bank (@IDBI_Bank) signs agreement to #transfer IDBI MF #business to LIC MF,IDBI,IDBI Bank Limited,Banks - PSU,Banks - PSU,EQ,20-Sep-95,10,1,INE008A01015,10
+115,1264,2022-12-30,HPL Electric bags #order worth ₹161 crore,HPL,HPL Electric & Power Limited,,,EQ,04-Oct-16,10,1,INE495S01016,10
+116,1274,2023-01-02,"CONCOR in focus
+CONCOR’s originating EXIM traffic growth has been lower than Railway EXIM traffic growth: Nomura",CONCOR,Container Corporation of India Limited,Transport & Logistics,Transport & Logistics,EQ,07-May-97,5,1,INE111A01025,5
+117,1281,2023-01-02,"NMDC (@nmdclimited) increases #LumpOre price by Rs 200 to Rs 4,300/tonne, & #Fines price by Rs 500 to Rs 3,410/tonne",NMDC,NMDC Limited,Mining & Minerals,Mining & Minerals,EQ,03-Mar-08,1,1,INE584A01023,1
+118,1295,2023-01-02,HFCL receives Purchase Orders aggregating to Rs 95.38 cr from Reliance Projects & Property Management Services for supply of #OpticalFiberCables to one of the leading private telecom operators of the country,HFCL,HFCL Limited,Telecommunications - Equipment,Telecommunications - Equipment,EQ,09-Mar-11,1,1,INE548A01028,1
+119,1300,2023-01-03,ONGC 'Sagar Samrat' starts Oil and Gas production in Arabian Sea,ONGC,Oil & Natural Gas Corporation Limited,Oil Drilling,Oil Drilling,EQ,19-Jul-95,5,1,INE213A01029,5
+120,1306,2023-01-03,"Adani Group decides to pay additional price for NDTV shares bought under open offer as transfer price for shares bought from another promoter (Inter-se) was higher than that of open offer price
+Alert: NDTV open offer price was ₹294/sh and promoter transfer price was ₹342.65/sh",NDTV,New Delhi Television Limited,Entertainment,Entertainment,BE,19-May-04,4,1,INE155G01029,4
+121,1315,2023-01-03,"Metal stocks see profit booking with Hindalco, JSW & Tata steel falling 1% each
+
+TVS motor’s below than expected December sales lead to a 3% fall in the stock
+
+M&M Fin slips while federal bank closes off highs after business updates for Q3",M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+122,1316,2023-01-03,NTPC starts India’s first green hydrogen blending #operation in PNG Network,NTPC,NTPC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,05-Nov-04,10,1,INE733E01010,10
+123,1324,2023-01-03,"HDFC Q3 Biz Update | @HomeLoansByHDFC assigned loans amounting to ₹8,892 crore compared to ₹7,468 crore YoY
+
+Gross income from dividend for the quarter ended December 31, 2022 was ₹ 482 crore Vs ₹195 crore YoY",HDFC,Housing Development Finance Corporation Limited,Finance,Finance,EQ,23-Oct-96,2,1,INE001A01036,2
+124,1332,2023-01-04,"HDFC Bank Q3 advances up 19.5% YoY & up 1.8% QoQ, deposits rise 19.9% YoY & up 3.6% QoQ",HDFC,Housing Development Finance Corporation Limited,Finance,Finance,EQ,23-Oct-96,2,1,INE001A01036,2
+125,1342,2023-01-04,TCS bags order from Taiwan-based CTBC Bank to digitally transform its banking & wealth landscape,TCS,Tata Consultancy Services Limited,Computers,Computers,EQ,25-Aug-04,1,1,INE467B01029,1
+126,1366,2023-01-05,"No #unpaid interest/principal obligations at the end of October-December quarter, says HCC",HCC,Hindustan Construction Company Limited,Construction,Construction,EQ,01-Apr-03,1,1,INE549A01026,1
+127,1367,2023-01-05,"#MarketAtClose | Crude & rubber price fall lifts tyre stocks, Apollo Tyres jumps 6%
+
+JBM Auto continues the gaining momentum on reports of big EV order wins
+
+RBL Bank surges after reporting a strong set of updates for Oct-Dec qtr",RBL,Rane Brake Lining Limited,Auto Ancillaries,Auto Ancillaries,EQ,20-Jun-08,10,1,INE244J01017,10
+128,1372,2023-01-05,IDBI Bank (@IDBI_Bank) to write to #exchanges to classify government holding as #public after #divestment,IDBI,IDBI Bank Limited,Banks - PSU,Banks - PSU,EQ,20-Sep-95,10,1,INE008A01015,10
+129,1393,2023-01-07,"Multiple Expressions of Interest received for the Strategic Disinvestment of Government and LIC Stake in IDBI Bank, says @SecyDIPAM",IDBI,IDBI Bank Limited,Banks - PSU,Banks - PSU,EQ,20-Sep-95,10,1,INE008A01015,10
+130,1404,2023-01-09,#JustIn | M&M introduces a new range of the #Thar starting at ₹9.99 lakh,M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+131,1406,2023-01-09,"PVR (@_PVRCinemas) opens 3 #Multiplexes in #Jaipur, #Bengaluru and #Gurugram",PVR,PVR Limited,Media & Entertainment,Media & Entertainment,EQ,04-Jan-06,10,1,INE191H01014,10
+132,1412,2023-01-09,"IRB Infrastructure Developers | December total #toll collection up 6% at Rs 388 c Vs Rs 365.9 cr (MoM)
+ 
+▶️December total toll collection up 31.9% at Rs 388 cr Vs Rs 294.1 cr (YoY)",IRB,IRB Infrastructure Developers Limited,Construction & Contracting - Real Estate,Construction & Contracting - Real Estate,EQ,25-Feb-08,10,1,INE821I01014,10
+133,1413,2023-01-09,"TCS (@TCS) reports Q3 earnings.
+
+▶️Rupee #revenue up 1.3% at Rs 58,229 cr Vs CNBC-TV18 poll of Rs 57,475 cr",TCS,Tata Consultancy Services Limited,Computers,Computers,EQ,25-Aug-04,1,1,INE467B01029,1
+134,1414,2023-01-09,"TCS (@TCS) reports Q3 earnings.
+
+▶️$ #revenue at $ 7,075 m Vs CNBC-TV18 poll of $6,990 m
+
+▶️Constant Currency revenue growth at 2.2% Vs CNBC-TV18 poll of 1.4-1.5%",TCS,Tata Consultancy Services Limited,Computers,Computers,EQ,25-Aug-04,1,1,INE467B01029,1
+135,1415,2023-01-09,"TCS announces total #Dividend of Rs 75/sh, special dividend of Rs 67/sh & interim #dividend of Rs 8/sh",TCS,Tata Consultancy Services Limited,Computers,Computers,EQ,25-Aug-04,1,1,INE467B01029,1
+136,1447,2023-01-11,"CONCOR reports a minor increase in volumes YoY, while it’s fallen QoQ
+🔴Total Q3 volumes up 5.18%, EXIM volumes up 0.6% YoY
+🔴Total Q3 volumes down 5% & EXIM volumes down 11% QoQ",CONCOR,Container Corporation of India Limited,Transport & Logistics,Transport & Logistics,EQ,07-May-97,5,1,INE111A01025,5
+137,1448,2023-01-11,"Total #Q3 volumes up 5.18%, #EXIM volumes up 0.6% YoY, says CONCOR (@concor_india)",CONCOR,Container Corporation of India Limited,Transport & Logistics,Transport & Logistics,EQ,07-May-97,5,1,INE111A01025,5
+138,1482,2023-01-14,"M&M December 2022 production nearly doubles YoY. December 2022 production at 45,009 units Vs 24,970 units (YoY)",M&M,Mahindra & Mahindra Limited,Auto,Auto,EQ,03-Jan-96,5,1,INE101A01026,5
+139,1488,2023-01-16,#JustIN | TCS partners with UK-based Scotwest Credit Union to improve customer retention,TCS,Tata Consultancy Services Limited,Computers,Computers,EQ,25-Aug-04,1,1,INE467B01029,1
+140,1504,2023-01-17,"NTPC Renewable Energy signs #MoU with Tripura Govt for renewable energy #development 
+
+@ntpclimited",NTPC,NTPC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,05-Nov-04,10,1,INE733E01010,10
+141,1526,2023-01-17,"ITC to acquire Sproutlife Foods Pvt Ltd, engaged in the manufacture and sale of healthy foods brand #YogaBar",ITC,ITC Limited,,,EQ,23-Aug-95,1,1,INE154A01025,1
+142,1529,2023-01-18,"HDFC Life seeks #IRDAI nod to enter indemnity health insurance market, may focus on critical illness products post approval, say sources",HDFC,Housing Development Finance Corporation Limited,Finance,Finance,EQ,23-Oct-96,2,1,INE001A01036,2
+143,1540,2023-01-18,"CCL Products (India) reports Q3 earnings.
+
+▶️Net profit up 25% at Rs 73 Cr Vs Rs 58 cr (YoY)
+
+▶️Revenue up 26.5% at Rs 535.3 Cr Vs Rs 423 cr (YoY)
+
+▶️EBITDA up 8.9% at Rs 100.7 cr Vs Rs 92.4 cr (YoY)
+
+▶️Margin at 18.8% Vs 21.8% (YoY)",CCL,CCL Products (India) Limited,Tea-Coffee,Tea-Coffee,EQ,07-Jun-04,2,1,INE421D01022,2
+144,1551,2023-01-19,Mining lease deed document executed between Karnataka Govt & KIOCL,KIOCL,KIOCL Limited,Steel - Sponge Iron,Steel - Sponge Iron,EQ,29-Nov-16,10,1,INE880L01014,10
+145,1560,2023-01-19,"PVR (@_PVRCinemas) reports Q3 earnings. 
+
+▶️Cons net profit at Rs 16.1 cr Vs loss of Rs 10.2 cr (YoY)      
+
+▶️Cons revenue up 53.2% at Rs 941 cr Vs Rs 614 cr (YoY)      
+
+▶️EBITDA up 75.1% at Rs 288.8 cr Vs Rs 165 cr (YoY) 
+
+▶️Margin at 30.7% Vs 26.9% (YoY)",PVR,PVR Limited,Media & Entertainment,Media & Entertainment,EQ,04-Jan-06,10,1,INE191H01014,10
+146,1578,2023-01-20,"DCM Shriram reports Q3 earnings.
+ 
+▶️Net profit down 1.2% at Rs 342.1 cr Vs Rs 349.6 cr (YoY)
+
+▶️Revenue up 21.2% at Rs 3,383.7 cr Vs Rs 2,790.8 cr (YoY)
+
+▶️EBITDA down 6% at Rs 554.2 cr Vs Rs 588.7 cr (YoY)
+
+▶️EBITDA margin at 16.4% Vs 21.1% (YoY)",DCM,DCM  Limited,Diversified,Diversified,EQ,29-Mar-95,10,1,INE498A01018,10
+147,1609,2023-01-23,"Market regains losses of last 2 sessions, led by it surge
+
+Infosys & TCS are top Nifty contributors followed by HDFC & HDFC bank",HDFC,Housing Development Finance Corporation Limited,Finance,Finance,EQ,23-Oct-96,2,1,INE001A01036,2
+148,1614,2023-01-23,"IIFL Securities reports Q3 earnings.
+
+▶️Net profit down 25.2% at Rs 64.5 cr Vs Rs 86.2 cr (YoY)
+
+▶️Revenue up 1.8% at Rs 342 cr Vs Rs 336 cr (YoY)",IIFL,IIFL Finance Limited,Finance,Finance,EQ,17-May-05,2,1,INE530B01024,2
+149,1616,2023-01-23,"KEI Industries reports Q3 earnings.
+
+▶️Net profit up 27.1% at Rs 128.6 cr Vs Rs 101.2 cr (YoY)
+
+▶️Revenue up 14.1% at Rs 1,784.3 cr Vs Rs 1,563.8 cr (YoY)
+
+▶️EBITDA up 16.2% at Rs 182.1 cr Vs Rs 156.7 cr (YoY)
+
+▶️Margin at 10.2% Vs 10% (YoY)",KEI,KEI Industries Limited,Cables,Cables,EQ,23-Mar-06,2,1,INE878B01027,2
+150,1618,2023-01-23,"CONCOR Q3 | #3QWithCNBCTV18
+
+Revenue up 3.6% At Rs 1,988.4 Cr Vs Rs 1,920 Cr (YoY)
+
+EBIDTA up 14.1% at Rs 426.4 cr vs Rs 373.8 cr (YoY)
+
+Profit up 3.5% at Rs 296.5 cr vs Rs 287 cr (YoY)
+
+Margin at 21.4% vs 19.5% (YoY)",CONCOR,Container Corporation of India Limited,Transport & Logistics,Transport & Logistics,EQ,07-May-97,5,1,INE111A01025,5
+151,1621,2023-01-23,"HFCL Q3 reports #Q3 earnings 
+
+⭕️ Profit up 22.7% at Rs 96.1 cr vs Rs 78 cr (YoY)
+
+⭕️ Revenue down 10.6% at Rs 1,085.8 vs Rs 1 215.2 cr (YoY)
+
+⭕️ EBIDTA up 10% at Rs 187.6 cr vs Rs 170.6 cr (YoY)
+
+⭕️ Margin at 17.3%  vs 14%(YoY)",HFCL,HFCL Limited,Telecommunications - Equipment,Telecommunications - Equipment,EQ,09-Mar-11,1,1,INE548A01028,1
+152,1624,2023-01-23,"NTPC completes trial operation of Unit-1 of 660 MW capacity of North Karanpura Super Thermal Power Project, (3 x 660 MW). 
+
+It is now included in the installed capacity of NTPC Limited",NTPC,NTPC Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,05-Nov-04,10,1,INE733E01010,10
+153,1652,2023-01-24,"PNB Housing Finance reports #Q3 earnings 
+
+▶️ Net #Profit up 42.8% at ₹269.1 cr vs ₹188 cr (YoY)    
+
+▶️ #Revenue up 20.1% at ₹1,796.5 cr vs ₹1,495.3 cr (YoY)    
+
+#Q3FY23 #Q3Results #earnings",PNB,Punjab National Bank,Banks - PSU,Banks - PSU,EQ,24-Apr-02,2,1,INE160A01022,2
+154,1656,2023-01-24,"PVR surges ahead of Pathaan movie release, stock closes nearly 4% higher
+
+Tata Motors closes with a gain of over 3% ahead of its earnings tomorrow",PVR,PVR Limited,Media & Entertainment,Media & Entertainment,EQ,04-Jan-06,10,1,INE191H01014,10
+155,1687,2023-01-26,SJVN sells its entire stake in Bhutanese JV Kholongchhu Hydro Energy for Rs 354.7 cr,SJVN,SJVN Limited,Power - Generation & Distribution,Power - Generation & Distribution,EQ,20-May-10,10,1,INE002L01015,10
+156,1688,2023-01-26,"DLF Q3 | #3QWithCNBCTV18
+
+Net Profit up 36.8% at Rs 519.2 cr vs Rs 379.4 cr (YoY)
+
+Revenue down 3.5% at Rs 1,494.8 cr vs Rs 1,549.7cr (YoY)
+
+EBITDA down 8.5% at Rs 477.2 cr vs Rs 521.3 cr (YoY)
+
+Margin at 31.9% vs 33.6% (YoY)",DLF,DLF Limited,Construction & Contracting - Real Estate,Construction & Contracting - Real Estate,EQ,05-Jul-07,2,1,INE271C01023,2
+157,1714,2023-01-27,"Mkt closes at a 3-month low as Adani Group shr fall triggers sharp cut in banks
+
+BSE cos erase market cap of nearly Rs 11 lakh cr in last two sessions
+
+Sensex falls 874 points to 59,331 & Nifty 288 points to 17,604",BSE,BSE Limited,,,EQ,03-Feb-17,2,1,INE118H01025,2
